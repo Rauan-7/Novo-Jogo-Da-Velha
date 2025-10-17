@@ -8,5 +8,5 @@
 
 *Jogadores*
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Rauan Primeiro 
+- ⭕ Rauan Segundo
