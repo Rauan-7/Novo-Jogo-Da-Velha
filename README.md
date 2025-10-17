@@ -8,5 +8,5 @@
 
 *Jogadores*
 
-- ❌ Rauan 1
+- ⭕ Rauan 1
 - ⭕ Rauan 2
