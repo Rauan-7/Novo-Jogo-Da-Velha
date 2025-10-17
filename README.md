@@ -3,10 +3,10 @@
 |   | 1 | 2 | 3 |
 |---|---|---|---|
 | A |   |   |   |
-| B |   |   |   |
+| B |   | ⭕  |   |
 | C |   |   |   |
 
 *Jogadores*
 
-- ❌ Rauan Primeiro 
-- ⭕ Rauan Segundo
+- ❌ Rauan 1
+- ⭕ Rauan 2
